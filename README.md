@@ -8,7 +8,16 @@
 
 </h1>
 # 💫 About Me:
-🔭 I’m currently working on:<br>Building full-stack web applications using React.js, Node.js, and MongoDB, including real-time project features like chat systems and room management.<br><br>👯 I’m looking to collaborate on:<br>Open-source web development projects, especially those involving React, Express, or RESTful APIs.<br><br>🤝 I’m looking for help with:<br>Improving backend scalability and deployment strategies using cloud services and CI/CD pipelines.<br><br>🌱 I’m currently learning:<br>Next.js, TypeScript, and Docker to strengthen my modern full-stack and DevOps skills.<br><br>💬 Ask me about:<br>Web development, JavaScript frameworks, UI/UX design, and API integration.<br><br>⚡ Fun fact:<br>I once built a chess game website from scratch — and it actually beat me once! 😄
+🔭 I’m currently working on:<br>Building full-stack web applications using React.js, Node.js, and MongoDB, including real-time project features like chat systems and room management.
+<br><br>👯 I’m looking to collaborate on:<br>Open-source web development projects, especially those involving React, Express, or RESTful APIs.<br><br>🤝 I’m looking for help with:<br>Improving backend scalability and deployment strategies using cloud services and CI/CD pipelines.<img align="right" alt="coding" width="250" src="https://github.com/03prashantpk/03prashantpk/blob/main/assets/keep_coding.gif"><br><br>🌱 I’m currently learning:<br>Next.js, TypeScript, and Docker to strengthen my modern full-stack and DevOps skills.<br><br>💬 Ask me about:<br>Web development, JavaScript frameworks, UI/UX design, and API integration.<br><br>⚡ Fun fact:<br>
+I once built a chess game website from scratch — and it actually beat me once! 😄
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://www.linkedin.com/in/shiva-yadav-476660349/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/shivayadav/" height="30" width="40" /></a>
+<a href="https://leetcode.com/u/shivayadav2/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/shivayada2/" height="30" width="40" /></a>
+
+</p>
 
 
 # 💻 Tech Stack:
@@ -22,7 +31,9 @@
 ![](https://github-profile-trophy.vercel.app/?username=SHIVA00202&theme=ambient_gradient&no-frame=false&no-bg=true&margin-w=4)
 
 ### 🔝 Top Contributed Repo
+
 ![](https://github-contributor-stats.vercel.app/api?username=SHIVA00202&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<img align="right" width="270" src="https://octodex.github.com/images/daftpunktocat-thomas.gif">
 
 ---
 [![](https://visitcount.itsvg.in/api?id=SHIVA00202&icon=2&color=0)](https://visitcount.itsvg.in)
