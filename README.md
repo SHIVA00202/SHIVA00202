@@ -29,12 +29,8 @@ I once built a chess game website from scratch — and it actually beat me once!
 
 # 🎖️ Holopin Badges:
 [![An image of @shiva00202's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/shiva00202)](https://holopin.io/@shiva00202)
-<h2>🏆 GitHub Trophies</h2>
-
-<img
-  src="https://github-profile-trophy.vercel.app/?username=SHIVA00202&theme=radical&column=6"
-  alt="GitHub Trophies"
-/>
+# 🏆 GitHub Trophies:
+![](https://github-profile-trophy.vercel.app/?SHIVA00202=ryo-ma&theme=monokai)
 
 
 ### 🔝 Top Contributed Repo
