@@ -26,6 +26,7 @@ I once built a chess game website from scratch — and it actually beat me once!
 ![](https://github-readme-stats.vercel.app/api?username=SHIVA00202&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=SHIVA00202&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=SHIVA00202&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
 [![An image of @shiva00202's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/shiva00202)](https://holopin.io/@shiva00202)
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=SHIVA00202&theme=ambient_gradient&no-frame=false&no-bg=true&margin-w=4)
