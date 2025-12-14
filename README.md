@@ -1,3 +1,12 @@
+![header](https://user-images.githubusercontent.com/121122397/216614878-411f6178-defa-4330-ba48-16db1cc92830.png)
+<h1 align="center">
+नमस्ते (Namaste), I Am Shiva Yadav !<br>
+</h1>
+<h1 align="center">
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Jersey+10&size=30&pause=1000&center=true&random=false&width=439&lines=Welcome+to+My+GitHub+Profile;Full-Stack+Web+Developer;Pushing+Boundaries+and+Pushing+Code;Always+Learning+New+Things;Let's+Connect+and+Build+Future.)](https://git.io/typing-svg)
+
+</h1>
 # 💫 About Me:
 🔭 I’m currently working on:<br>Building full-stack web applications using React.js, Node.js, and MongoDB, including real-time project features like chat systems and room management.<br><br>👯 I’m looking to collaborate on:<br>Open-source web development projects, especially those involving React, Express, or RESTful APIs.<br><br>🤝 I’m looking for help with:<br>Improving backend scalability and deployment strategies using cloud services and CI/CD pipelines.<br><br>🌱 I’m currently learning:<br>Next.js, TypeScript, and Docker to strengthen my modern full-stack and DevOps skills.<br><br>💬 Ask me about:<br>Web development, JavaScript frameworks, UI/UX design, and API integration.<br><br>⚡ Fun fact:<br>I once built a chess game website from scratch — and it actually beat me once! 😄
 
@@ -19,3 +28,22 @@
 [![](https://visitcount.itsvg.in/api?id=SHIVA00202&icon=2&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<center>
+<p align="center">
+
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&center=true&pause=1000&color=F37E21&width=1080&lines=Thank+You+for+Visiting+And+Happy+Coding..." alt="Typing SVG" /></a>
+
+ 
+</p>
+</center>
+<hr/>
+
+
+
+<a hraf="https://www.linkedin.com/in/darshanpc/">
+  
+![](https://github.com/03prashantpk/03prashantpk/blob/main/assets/footer3.png)
+
+</a>
+
+
