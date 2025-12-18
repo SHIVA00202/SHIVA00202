@@ -4,7 +4,7 @@
 </h1>
 <h1 align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Jersey+10&size=30&pause=1000&center=true&random=false&width=439&lines=Welcome+to+My+GitHub+Profile;Full-Stack+Developer;Pushing+Boundaries+and+Pushing+Code;Always+Learning+New+Things;Let's+Connect+and+Build+Future.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Jersey+10&size=30&pause=1000&center=true&random=false&width=439&lines=Welcome+to+My+GitHub+Profile;Full-Stack+Developer;Pushing+Boundaries+and+Pushing+Code;Always+Learning+New+Things;Problem+Solver;Let's+Connect+and+Build+Future.)](https://git.io/typing-svg)
 
 </h1>
 # 💫 About Me:
