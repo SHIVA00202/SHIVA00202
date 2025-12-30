@@ -7,7 +7,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Jersey+10&size=30&pause=1000&center=true&random=false&width=439&lines=Welcome+to+My+GitHub+Profile;Full-Stack+Developer;Pushing+Boundaries+and+Pushing+Code;Always+Learning+New+Things;Let's+Connect+and+Build+Future.)](https://git.io/typing-svg)
 
 </h1>
-# 💫 About Me:
+ 💫 About Me:
 🔭 I’m currently working on:<br>Building full-stack web applications using React.js, Node.js, and MongoDB, including real-time project features like chat systems and room management.
 <br><br>👯 I’m looking to collaborate on:<br>Open-source web development projects, especially those involving React, Express, or RESTful APIs.<br><br>🤝 I’m looking for help with:<br>Improving backend scalability and deployment strategies using cloud services and CI/CD pipelines.<img align="right" alt="coding" width="250" src="https://github.com/03prashantpk/03prashantpk/blob/main/assets/keep_coding.gif"><br><br>🌱 I’m currently learning:<br>Next.js, TypeScript, and Docker to strengthen my modern full-stack and DevOps skills.<br><br>💬 Ask me about:<br>Web development, JavaScript frameworks, UI/UX design, and API integration.<br><br>⚡ Fun fact:<br>
 I once built a chess game website from scratch — and it actually beat me once! 😄
