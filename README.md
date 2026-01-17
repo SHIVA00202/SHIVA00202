@@ -10,14 +10,7 @@
 
 </h1>
 
-<!-- Portfolio Button -->
-<p align="center">
-  <a href="https://shiva-yadav-website.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/🌐%20My%20Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
-  </a>
-</p>
 
----
 
 ## 💫 About Me:
 
