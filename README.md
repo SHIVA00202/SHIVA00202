@@ -157,7 +157,7 @@ https://shiva-yadav-website.vercel.app/
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=SHIVA00202&show_icons=true&theme=dark" height="165" />
-  <img src="https://nirzak-streak-stats.vercel.app/?user=SHIVA00202&theme=dark" height="165" />
+  <img src="https://nirzak-streak-stats.vercel.app/?user=shiva00202&theme=dark" height="165" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SHIVA00202&layout=compact&theme=dark" height="165" />
 
 </p>
