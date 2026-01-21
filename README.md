@@ -72,6 +72,14 @@ https://shiva-yadav-website.vercel.app/
 
 ---
 
+
+
+
+## 🏆 GitHub Trophies:
+![](https://hacked-github-stat-trophies.vercel.app/?username=shiva00202&theme=dracula&column=11)
+
+---
+
 ## 🤝 Connect With Me
 
 <p align="left">
