@@ -29,9 +29,14 @@ I enjoy solving real-world problems through **clean code, modern frameworks, and
 
 - 👯 **Open to collaboration on**  
   Open-source and production-level projects involving **React, REST APIs, and backend systems**.
+ 
 
 - 🤝 **Seeking guidance in**  
   Backend scalability, cloud-native architectures, and **CI/CD pipelines**.
+
+   <div align="right">
+  <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/74038190/242390524-0c7eb6ed-663b-4ce4-bfbd-18239a38ba1b.gif" width="30%" style="border-radius: 10px;" alt="Header GIF" />
+</div>
 
 - 🌱 **Currently learning**  
   **Next.js, TypeScript, Docker, and DevOps fundamentals**.
