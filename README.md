@@ -121,6 +121,8 @@ https://shiva-yadav-website.vercel.app/
 ![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=for-the-badge)
 ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge)
 
+ <img align="right" width="270" src="https://octodex.github.com/images/daftpunktocat-thomas.gif">
+
 ### 🗄️ Databases & ORM
 ![MongoDB](https://img.shields.io/badge/MongoDB-4ea94b?style=for-the-badge)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge)
@@ -130,6 +132,7 @@ https://shiva-yadav-website.vercel.app/
 ### 🧩 State Management & Data Fetching
 ![Redux Toolkit](https://img.shields.io/badge/Redux_Toolkit-593D88?style=for-the-badge)
 ![React Query](https://img.shields.io/badge/React_Query-FF4154?style=for-the-badge)
+
 
 
 ### 🎨 UI / UX
@@ -156,6 +159,7 @@ https://shiva-yadav-website.vercel.app/
   <img src="https://github-readme-stats.vercel.app/api?username=SHIVA00202&show_icons=true&theme=dark" height="165" />
   <img src="https://nirzak-streak-stats.vercel.app/?user=SHIVA00202&theme=dark" height="165" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SHIVA00202&layout=compact&theme=dark" height="165" />
+
 </p>
 
 ---
